@@ -1,5 +1,5 @@
 {
-  "name": "hrshadhin/laravel-userstamps",
+  "name": "ahuseiny/laravel-userstamps",
   "homepage": "https://github.com/hrshadhin/laravel-userstamps",
   "license": "MIT",
   "description": "A simple Laravel package for Eloquent Model user specific fields.",
@@ -29,13 +29,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Hrshadhin\\Userstamps\\": "src/"
+      "Ahuseiny\\Userstamps\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Hrshadhin\\Userstamps\\UserstampsServiceProvider"
+        "Ahuseiny\\Userstamps\\UserstampsServiceProvider"
       ]
     }
   }
