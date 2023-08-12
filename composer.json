@@ -29,13 +29,13 @@
   },
   "autoload": {
     "psr-4": {
-      "GeekJeef\\Userstamps\\": "src/"
+      "Ahuseiny\\Userstamps\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "GeekJeef\\Userstamps\\UserstampsServiceProvider"
+        "Ahuseiny\\Userstamps\\UserstampsServiceProvider"
       ]
     }
   }
